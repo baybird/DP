@@ -4,8 +4,6 @@
 # Last Modified :
 # Description   : Singleton Pattern of Creational Patterns
 # Python Version: 2.7
-#
-
 
 class Singleton:
   instance = None
