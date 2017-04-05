@@ -1,5 +1,5 @@
 # Filename      : 01.singleton.py
-# Author        : Robert.Tang
+# Author        : Robert Tang
 # Created       : 3/29/2017
 # Last Modified :
 # Description   : Singleton Pattern of Creational Patterns
