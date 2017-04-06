@@ -24,5 +24,7 @@ obj2 = Singleton.getInstance()
 print obj2;
 
 # Result:
-# <__main__.Singleton instance at 0x02D91710>
-# <__main__.Singleton instance at 0x02D91710>
+# Truck
+# Boot
+# Van
+# Boot
